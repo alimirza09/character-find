@@ -1,0 +1,15 @@
+C:\Users\Ali\Challenges\Fizzbuzz\bin\Debug\net6.0\Fizzbuzz.exe
+C:\Users\Ali\Challenges\Fizzbuzz\bin\Debug\net6.0\Fizzbuzz.deps.json
+C:\Users\Ali\Challenges\Fizzbuzz\bin\Debug\net6.0\Fizzbuzz.runtimeconfig.json
+C:\Users\Ali\Challenges\Fizzbuzz\bin\Debug\net6.0\Fizzbuzz.dll
+C:\Users\Ali\Challenges\Fizzbuzz\bin\Debug\net6.0\Fizzbuzz.pdb
+C:\Users\Ali\Challenges\Fizzbuzz\obj\Debug\net6.0\Fizzbuzz.csproj.AssemblyReference.cache
+C:\Users\Ali\Challenges\Fizzbuzz\obj\Debug\net6.0\Fizzbuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\Challenges\Fizzbuzz\obj\Debug\net6.0\Fizzbuzz.AssemblyInfoInputs.cache
+C:\Users\Ali\Challenges\Fizzbuzz\obj\Debug\net6.0\Fizzbuzz.AssemblyInfo.cs
+C:\Users\Ali\Challenges\Fizzbuzz\obj\Debug\net6.0\Fizzbuzz.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Challenges\Fizzbuzz\obj\Debug\net6.0\Fizzbuzz.dll
+C:\Users\Ali\Challenges\Fizzbuzz\obj\Debug\net6.0\refint\Fizzbuzz.dll
+C:\Users\Ali\Challenges\Fizzbuzz\obj\Debug\net6.0\Fizzbuzz.pdb
+C:\Users\Ali\Challenges\Fizzbuzz\obj\Debug\net6.0\Fizzbuzz.genruntimeconfig.cache
+C:\Users\Ali\Challenges\Fizzbuzz\obj\Debug\net6.0\ref\Fizzbuzz.dll
